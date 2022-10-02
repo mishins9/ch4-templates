@@ -11,3 +11,5 @@ Just some of the topics include:
 - Storing data in the SQLAlchemy ORM
 - Leveraging SQLAlchemy's new async/await capable API for scaling out
 - Deploy your FastAPI app to a Linux cloud VM
+
+https://pfbuwp.deta.dev/
